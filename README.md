@@ -5,6 +5,20 @@ Voter's Revenge is an open source software project, which will construct a tool 
 
 Voter's Revenge has an informational wordpress site: [votersrevenge.info](https://www.votersrevenge.info/)
 
+# Motivation for Voter's Revenge
+These relate primarily to the voteslinger role: 
+---
+[Successful Fights Against Medical Tyranny Illustrate Voter's Revenge Strategy Is Correct](https://www.reddit.com/r/voters_revenge/comments/ptvnxd/successful_fights_against_medical_tyranny/)
+
+[Negative Vote Blocs vs. Positive Vote Blocs – which could prove more disruptive in the near future?](https://www.votersrevenge.info/?p=14)
+
+These relate primarily to the wrangler role:
+---
+NOTE: A politician who has recently been elected is probably immune to the direct electoral threats of voteslingers. Consider a US Senator, who has just been elected to a 6 year term... Hence, the need to go beyond just voteslingers.
+
+[Why Obama And Democrats Don’t Do Much of What Liberals Want (Netroots Failure: Part 2)](https://www.ianwelsh.net/why-obama-and-democrats-dont-do-much-of-what-liberals-want-netroots-failure-part-2/?)
+
+
 # Constituent Sub-Projects
 NOTE: There's no code in this repo, as of Sep. 24, because the sub-projects are mostly undone.
 
