@@ -11,6 +11,9 @@ NOTE: There's no code in this repo, as of Sep. 24, because the sub-projects are 
 NOTE: There will be an additional sub-project to handle administrative type of work, like data entry of politician information.  
 
 [sldev2/votersrevenge-frontend-db](https://github.com/sldev2/votersrevenge-frontend-db)
+---
 [sldev2/votersrevenge-frontend](https://github.com/sldev2/votersrevenge-frontend)
+---
 [sldev2/votersrevenge-messaging](https://github.com/sldev2/votersrevenge-messaging)
+---
 [sldev2/vr-vtsv-timeline](https://github.com/sldev2/vr-vtsv-timeline)
